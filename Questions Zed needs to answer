@@ -1,0 +1,6 @@
+Questions Zed needs to answer
+
+1. What does %s, %r and %d do again?
+	He already explained they are formatters. They tell Python to take the variable on the right and put it in to replace the %s with it's value. However, he does not explain exactly what a formatter is because as he says it will require a higher knowledge of programming in general to really get
+
+	Further Answered:
